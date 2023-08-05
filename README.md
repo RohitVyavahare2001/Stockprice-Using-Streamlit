@@ -1,2 +1,1 @@
-"# Stockprice-Using-Streamlit" 
-"# Stockprice-Using-Streamlit" 
+# Stockprice Analyzer using streamlit
